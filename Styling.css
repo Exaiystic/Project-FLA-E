@@ -94,12 +94,12 @@ p {
     background-image: url('Images/sample1.jpg'); 
 }
 
-.picture1 {
-	background-image: url('Images/image1.jpg');
+.sample2 {
+	background-image: url('Images/sample2.jpg');
 }
 
-.picture2 {
-	background-image: url('Images/image2.jpg')
+.sample3 {
+	background-image: url('Images/sample3.jpg')
 }
 
 #title {
