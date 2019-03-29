@@ -90,8 +90,16 @@ p {
     -webkit-filter: contrast(50%);
 }
 
-.picture1 {
+.sample1 {
     background-image: url('Images/sample1.jpg'); 
+}
+
+.picture1 {
+	background-image: url('Images/image1.jpg');
+}
+
+.picture2 {
+	background-image: url('Images/image2.jpg')
 }
 
 #title {
